@@ -1,5 +1,11 @@
 {
 	"author": "alethoo",
 	"description": "this is a beginner's project to practice node.js",
-	"keywords": ["node.js", "beginners", "freecodecamp", "api"]
+	"keywords": [
+		"node.js",
+		"beginners",
+		"freecodecamp",
+		"api"
+	],
+	"license": "MIT"
 }
