@@ -8,8 +8,5 @@
 		"api"
 	],
 	"license": "MIT",
-	"version": "1.0.0",
-	"dependencies": {
-		"moment": "~2.10.2"
-	}
+	"version": "1.0.0"
 }
